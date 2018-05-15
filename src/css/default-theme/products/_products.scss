@@ -1,0 +1,19 @@
+.products__item_hover:hover {
+  background: #5b0fa1;
+}
+
+.products__item_hover:hover > .products__arrow {
+  color: #fff;
+}
+
+.products__item_first {
+  background-color: #3e363f;
+}
+
+.products__item_second {
+  background-color: #00609e;
+}
+
+.products__item_third {
+  background-color: #e6a483;
+}
